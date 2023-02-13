@@ -42,7 +42,7 @@ You can convert the data given coco annotation to yolo annotation by running the
 
 ## Screenshots
 
-![Screen Shot](colab-output\val_batch2_pred.jpg)
+![Screen Shot](colab-output/val_batch2_pred.jpg)
 
 ## Authors
 
