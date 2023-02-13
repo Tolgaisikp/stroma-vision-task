@@ -40,6 +40,10 @@ You can convert the data given coco annotation to yolo annotation by running the
 * [YoloV8](https://github.com/ultralytics/ultralytics) - YoloV8 Github link
 * [Dataset](https://drive.google.com/file/d/1j8RAxBHwEI1zanmblq0RuQiFDGLHN-ig/view?usp=sharing) - Latest version of the Dataset
 
+## Screenshots
+
+![Screen Shot](colab-output\val_batch2_pred.jpg)
+
 ## Authors
 
 **Tolga Işık** - [Tolgaisikp](https://github.com/Tolgaisikp)
