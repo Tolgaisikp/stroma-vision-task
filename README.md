@@ -18,7 +18,7 @@ Since notebook will be used in local for dataset operations, virtual environment
 
 ```bash
 conda create --name stroma-vision python=3.10.6
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Run
